@@ -1,0 +1,6 @@
+Los controles son los indicados en la guía de la práctica exceptuando
+el control para cargar el objeto ply, en vez de usar la tecla '1' se
+usan las teclas 'w', 'e', 'r' para visualizar los tres ply de la práctica 1.
+
+Finalmente he añadido también movimiento automatico (esta parte la he hecho despues de la defensa)
+que se puede activar y desactivar con la tecla 'M'.
